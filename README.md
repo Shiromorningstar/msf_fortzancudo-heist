@@ -1,1 +1,1 @@
-# msf_fortzancudo-heist
+ Fivem ESX Based Script! msf_fortzancudo-heist. By: Shiro Morningstar Discord: https://discord.gg/Cb5Ag3kUXd This Script Was Made Through The Request Of The Morninstar Familia Server "ALOHA CITY" Players As Part Of The Robbery And Illegal Activities Of Our Cops Vs Robbers Roleplay Server. Its Support All ESX Framework! 
